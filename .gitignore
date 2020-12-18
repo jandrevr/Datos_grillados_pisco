@@ -1,3 +1,7 @@
+# Learning how to use GitHub
+# https://github.com/DomBennett/Teaching-github
+# 1. Open the .gitignore and ignore .csv files
+
 # Ignored files
 .DS_Store
 *.csv
